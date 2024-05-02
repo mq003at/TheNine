@@ -1,0 +1,6 @@
+@TheNine_HostAddress = http://localhost:5189
+
+GET {{TheNine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

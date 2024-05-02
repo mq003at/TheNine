@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypj6Baipc9TExa4TTfIDy0vyT0KNLp3GigFdgkKLjYjjvmKRuSaUL8nsr2/ayyg325EuQiYhftWY0vCoRLK63A==",
+  "success": true,
+  "projectFilePath": "D:\\W-Working\\playground\\dotnet\\TheNine\\TheNine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Winston Lycan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
